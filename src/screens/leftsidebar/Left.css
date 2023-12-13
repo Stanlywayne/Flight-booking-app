@@ -1,0 +1,85 @@
+.left_side_box{
+    display: block;
+    border: 2px solid black;
+    border-radius: 1rem;
+    width: 18rem;
+    height: 46rem;
+    margin-top: -8rem;
+    margin-left: -0.9rem;
+    background-color: rgb(63, 67, 63);
+}
+.statue_image{
+    margin: 1rem ;
+    margin-left: 4.6rem;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 14rem;
+}
+.pages{
+    margin-top: -1.4rem;
+}
+.dash_board{
+    color: white;
+    font-size: large;
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
+.flights{
+    color: white;
+    font-size: large;
+    margin-top: 0.7rem;
+    margin-left: 4rem;
+}
+.wallet{
+    color: white;
+    font-size: large;
+    margin-top: 0.7rem;
+    margin-left: 4rem;
+}
+.reports{
+    color: white;
+    font-size: large;
+    margin-top: 0.7rem;
+    margin-left: 4rem;
+}
+.statistics{
+    color: white;
+    font-size: large;
+    margin-top: 0.7rem;
+    margin-left: 4rem;
+}
+.settings{
+    color: white;
+    font-size: large;
+    margin-top: 0.7rem;
+    margin-left: 4rem;
+}
+.active_image_user{
+    margin: 1rem;
+    margin-top:-1rem ;
+    margin-left: 2.4rem;
+    width: 10rem;
+    height: 3.7rem;
+}
+.world_map{
+    margin: 1rem;
+    margin-top: -5rem;
+    margin-left: 0.4rem;
+    width: 15rem;    
+
+}
+.more{
+    margin: 1rem;
+    margin-left: 2rem;
+    margin-top: -3rem;
+    margin-bottom: 4rem;
+    
+}
+.more_plus{
+    width: 11rem;
+    height: 3rem;
+    border: 4rem orange;
+    border-radius: 1rem;
+    color: white;
+    background-color: grey;
+}

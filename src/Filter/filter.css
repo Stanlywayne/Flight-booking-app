@@ -1,0 +1,40 @@
+.Result_box{
+    margin: 2rem;
+    margin-left: 22rem;
+    margin-top: -36rem;
+}
+
+.filter_box{
+   
+        display: block;
+        margin: 1rem;
+        margin-left: 70.6rem;
+        margin-top: -3.7rem;
+        border: 2px solid black;
+        border-radius: 1rem;
+        width: 6rem;
+        height: 2rem;
+        background-color: white;
+    
+}
+.ticket_box{
+   
+    display: block;
+    margin: 1rem;
+    margin-left: 77.6rem;
+    margin-top: -3rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    width: 12rem;
+    height: 2rem;
+    background-color: white;
+}
+
+.tex{
+    font-size:large;
+    margin-left: 1.5rem;
+    margin-top: 0.3rem;
+}
+.res_tex{
+    margin-left: -2rem;
+}
